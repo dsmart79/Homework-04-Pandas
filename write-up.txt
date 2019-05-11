@@ -1,0 +1,9 @@
+Homework 04- Pandas
+
+Heroes of Pymoli Observations
+
+1) The vast majority of players are male but on average the famale players spend more.
+
+2) The 20-24 year old range is the biggest contributer to the game. They have the most players and spend the second most per person after the under 10 group.
+
+3) With 780 total purchases and 576 players, most players are only making one purchase and just a few have made more than 1 purchase.
